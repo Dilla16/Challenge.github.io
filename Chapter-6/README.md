@@ -1,8 +1,8 @@
-# Design Pattern, Authentication and OpenAPI
+# CREATE REACT APP
 
 Welcome to binar project! This repository contains implementation of Simple Design Pattern using Service Repository Pattern. Below are the instructions on how to set up and use this project.
 
-![Cars ERD](cars_ERD/cars_ERD.png)
+<!-- ![Cars ERD](cars_ERD/cars_ERD.png) -->
 
 ## Installation
 
