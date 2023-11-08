@@ -1,6 +1,6 @@
 # CREATE REACT APP
 
-Welcome to binar project! This repository contains implementation of Simple Design Pattern using Service Repository Pattern. Below are the instructions on how to set up and use this project.
+Welcome to binar project! This repository contains simple web design using **REACT**. Below are the instructions on how to set up and use this project.
 
 <!-- ![Cars ERD](cars_ERD/cars_ERD.png) -->
 
@@ -61,13 +61,17 @@ Welcome to binar project! This repository contains implementation of Simple Desi
 
 ---
 
+4. **Run the Database**
+
+This database run on `http://localhost:8000/`
+
 ## API Endpoints
 
 You can see API DOcumentation by this command
 
 `http://localhost:8000/api-docs/`
 
-## SUper Admin
+## Super Admin
 
 ```Email: superadmin@gmail.com
 Password: superadmin
